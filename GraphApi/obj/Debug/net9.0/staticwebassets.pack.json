@@ -1,0 +1,813 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\0079ce96-a856-4a5f-8eab-443e3c50d823.wav",
+      "PackagePath": "staticwebassets\\voices\\0079ce96-a856-4a5f-8eab-443e3c50d823.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\007efb2b-ccb4-41bb-9041-db3866f6c722.wav",
+      "PackagePath": "staticwebassets\\voices\\007efb2b-ccb4-41bb-9041-db3866f6c722.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\03551347-610c-49ce-a622-8c20bbfd1f91.wav",
+      "PackagePath": "staticwebassets\\voices\\03551347-610c-49ce-a622-8c20bbfd1f91.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\06145381-798a-43b9-8591-01d10fa7c2f4.wav",
+      "PackagePath": "staticwebassets\\voices\\06145381-798a-43b9-8591-01d10fa7c2f4.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\087eddcd-4e24-4c7f-ac76-62fe02e04133.wav",
+      "PackagePath": "staticwebassets\\voices\\087eddcd-4e24-4c7f-ac76-62fe02e04133.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\0a4bfb1e-23db-4db8-9860-0db593f812b5.wav",
+      "PackagePath": "staticwebassets\\voices\\0a4bfb1e-23db-4db8-9860-0db593f812b5.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\0be4fad0-c8f9-4907-9f64-0542396f34f3.wav",
+      "PackagePath": "staticwebassets\\voices\\0be4fad0-c8f9-4907-9f64-0542396f34f3.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\0c772637-2259-46e7-9561-96dccb4be15b.wav",
+      "PackagePath": "staticwebassets\\voices\\0c772637-2259-46e7-9561-96dccb4be15b.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\0dafa1c0-a55d-4346-8bb9-6f60a229aaad.wav",
+      "PackagePath": "staticwebassets\\voices\\0dafa1c0-a55d-4346-8bb9-6f60a229aaad.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\0e56f082-c9d6-4514-b14d-25b79603e776.wav",
+      "PackagePath": "staticwebassets\\voices\\0e56f082-c9d6-4514-b14d-25b79603e776.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\0eee0983-0c37-43d0-ad80-13cfd8bd4934.wav",
+      "PackagePath": "staticwebassets\\voices\\0eee0983-0c37-43d0-ad80-13cfd8bd4934.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\103d3230-df99-46e8-885c-5949d708bfef.wav",
+      "PackagePath": "staticwebassets\\voices\\103d3230-df99-46e8-885c-5949d708bfef.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\105d0af1-8d45-4ef4-8636-66edd1c37b88.wav",
+      "PackagePath": "staticwebassets\\voices\\105d0af1-8d45-4ef4-8636-66edd1c37b88.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\108e971f-5939-443c-9fe2-c947c6614526.wav",
+      "PackagePath": "staticwebassets\\voices\\108e971f-5939-443c-9fe2-c947c6614526.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\11d95035-5ee6-4baa-948b-495b7fcf7a10.wav",
+      "PackagePath": "staticwebassets\\voices\\11d95035-5ee6-4baa-948b-495b7fcf7a10.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\12113f77-b02c-43f0-8974-73de33355988.wav",
+      "PackagePath": "staticwebassets\\voices\\12113f77-b02c-43f0-8974-73de33355988.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\187792bb-b843-4132-9c2b-15115c98faae.wav",
+      "PackagePath": "staticwebassets\\voices\\187792bb-b843-4132-9c2b-15115c98faae.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\194c0818-3ba6-47d8-8d12-6263ca8cb2eb.wav",
+      "PackagePath": "staticwebassets\\voices\\194c0818-3ba6-47d8-8d12-6263ca8cb2eb.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\199de0d1-c257-4e1a-a1e7-b867d66a2bec.wav",
+      "PackagePath": "staticwebassets\\voices\\199de0d1-c257-4e1a-a1e7-b867d66a2bec.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\1aa2a2a8-80f0-4fe6-8baf-58ce3a989056.wav",
+      "PackagePath": "staticwebassets\\voices\\1aa2a2a8-80f0-4fe6-8baf-58ce3a989056.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\1b0b7369-4a07-42fb-a1b4-f91c329f6ccc.wav",
+      "PackagePath": "staticwebassets\\voices\\1b0b7369-4a07-42fb-a1b4-f91c329f6ccc.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\1b84b791-11a3-4c26-92f2-e5f0a745457a.wav",
+      "PackagePath": "staticwebassets\\voices\\1b84b791-11a3-4c26-92f2-e5f0a745457a.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\1f5e435a-9924-4096-bde1-3306013b6508.wav",
+      "PackagePath": "staticwebassets\\voices\\1f5e435a-9924-4096-bde1-3306013b6508.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\201d0ad7-707a-4f44-a5c1-b8ed371a07e5.wav",
+      "PackagePath": "staticwebassets\\voices\\201d0ad7-707a-4f44-a5c1-b8ed371a07e5.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\217801ea-a756-47e9-a09d-9f82ba0449b3.wav",
+      "PackagePath": "staticwebassets\\voices\\217801ea-a756-47e9-a09d-9f82ba0449b3.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\220111a2-d99f-4fc1-93ca-07cc825a2e0a.wav",
+      "PackagePath": "staticwebassets\\voices\\220111a2-d99f-4fc1-93ca-07cc825a2e0a.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\2392f98a-bd5d-4878-9328-f85ee2b1b04f.wav",
+      "PackagePath": "staticwebassets\\voices\\2392f98a-bd5d-4878-9328-f85ee2b1b04f.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\259f2978-97c4-4214-a590-c5839f8c4b90.wav",
+      "PackagePath": "staticwebassets\\voices\\259f2978-97c4-4214-a590-c5839f8c4b90.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\25ee3a41-bd5f-454b-8dbb-34846c372f02.wav",
+      "PackagePath": "staticwebassets\\voices\\25ee3a41-bd5f-454b-8dbb-34846c372f02.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\266d8fa3-5abc-4ebb-a9c4-1ba19ad49781.wav",
+      "PackagePath": "staticwebassets\\voices\\266d8fa3-5abc-4ebb-a9c4-1ba19ad49781.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\27739f7c-f55b-4ef3-81be-53aef47dfd89.wav",
+      "PackagePath": "staticwebassets\\voices\\27739f7c-f55b-4ef3-81be-53aef47dfd89.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\2809ea76-1696-4455-ac3e-aef8f037298e.wav",
+      "PackagePath": "staticwebassets\\voices\\2809ea76-1696-4455-ac3e-aef8f037298e.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\289f44ff-8054-41f0-88b1-6607cb5d259d.wav",
+      "PackagePath": "staticwebassets\\voices\\289f44ff-8054-41f0-88b1-6607cb5d259d.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\2a6709a3-270d-4e59-b725-fcb96e850039.wav",
+      "PackagePath": "staticwebassets\\voices\\2a6709a3-270d-4e59-b725-fcb96e850039.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\2ea0dacb-244a-493a-937f-44914fad652f.wav",
+      "PackagePath": "staticwebassets\\voices\\2ea0dacb-244a-493a-937f-44914fad652f.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\2f084511-bd92-4271-a38a-79c4eb930004.wav",
+      "PackagePath": "staticwebassets\\voices\\2f084511-bd92-4271-a38a-79c4eb930004.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\303a2c5e-8ec1-4072-b4ab-84244e7d68ad.wav",
+      "PackagePath": "staticwebassets\\voices\\303a2c5e-8ec1-4072-b4ab-84244e7d68ad.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\32a6f78b-ec16-4be0-93dd-30373065e767.wav",
+      "PackagePath": "staticwebassets\\voices\\32a6f78b-ec16-4be0-93dd-30373065e767.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\3334bdee-18c5-4839-a089-b5eff372e216.wav",
+      "PackagePath": "staticwebassets\\voices\\3334bdee-18c5-4839-a089-b5eff372e216.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\33c370c4-fadb-471d-9809-81f2296d3ed8.wav",
+      "PackagePath": "staticwebassets\\voices\\33c370c4-fadb-471d-9809-81f2296d3ed8.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\35522f02-f9bc-4e59-9b13-3d2f19471a86.wav",
+      "PackagePath": "staticwebassets\\voices\\35522f02-f9bc-4e59-9b13-3d2f19471a86.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\36368ad7-8939-45cf-9a18-9ae1007a283e.wav",
+      "PackagePath": "staticwebassets\\voices\\36368ad7-8939-45cf-9a18-9ae1007a283e.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\37208955-d9f2-494c-89c6-228826182d76.wav",
+      "PackagePath": "staticwebassets\\voices\\37208955-d9f2-494c-89c6-228826182d76.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\37dff2c9-08ca-470a-9bc2-ff13e8b8c21f.wav",
+      "PackagePath": "staticwebassets\\voices\\37dff2c9-08ca-470a-9bc2-ff13e8b8c21f.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\388ee9a8-8a77-42ad-8078-504dfd8c1fcd.wav",
+      "PackagePath": "staticwebassets\\voices\\388ee9a8-8a77-42ad-8078-504dfd8c1fcd.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\38da0c6a-23f4-4a26-8366-b3adbf94ae47.wav",
+      "PackagePath": "staticwebassets\\voices\\38da0c6a-23f4-4a26-8366-b3adbf94ae47.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\3b3df7af-a475-41d6-aabd-f1d3b1b408b2.wav",
+      "PackagePath": "staticwebassets\\voices\\3b3df7af-a475-41d6-aabd-f1d3b1b408b2.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\3bb03c5a-80d1-4487-8c54-90f109c65cd0.wav",
+      "PackagePath": "staticwebassets\\voices\\3bb03c5a-80d1-4487-8c54-90f109c65cd0.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\3c4d1dce-c166-461a-80b6-8902911c83d7.wav",
+      "PackagePath": "staticwebassets\\voices\\3c4d1dce-c166-461a-80b6-8902911c83d7.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\3d37acc0-258e-4e40-9a45-53c97fdf5c53.wav",
+      "PackagePath": "staticwebassets\\voices\\3d37acc0-258e-4e40-9a45-53c97fdf5c53.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\3dc45bc2-8dda-4b6a-9fa7-3cc5cc01becd.wav",
+      "PackagePath": "staticwebassets\\voices\\3dc45bc2-8dda-4b6a-9fa7-3cc5cc01becd.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\3ef07d08-dda7-4ab9-9bf7-b8cbbb0bad84.wav",
+      "PackagePath": "staticwebassets\\voices\\3ef07d08-dda7-4ab9-9bf7-b8cbbb0bad84.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\3fb34f14-de4d-412c-a67b-5f022c709696.wav",
+      "PackagePath": "staticwebassets\\voices\\3fb34f14-de4d-412c-a67b-5f022c709696.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\40dac58c-18dd-4254-a314-66fe45f1123a.wav",
+      "PackagePath": "staticwebassets\\voices\\40dac58c-18dd-4254-a314-66fe45f1123a.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\42c17c56-3032-4b92-8cf7-84e513ad6d43.wav",
+      "PackagePath": "staticwebassets\\voices\\42c17c56-3032-4b92-8cf7-84e513ad6d43.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\4329850b-5cf3-478d-ad64-89d646fa1915.wav",
+      "PackagePath": "staticwebassets\\voices\\4329850b-5cf3-478d-ad64-89d646fa1915.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\43875b5b-f681-4ff4-ac7d-94d0c45e35db.wav",
+      "PackagePath": "staticwebassets\\voices\\43875b5b-f681-4ff4-ac7d-94d0c45e35db.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\45c4b2f1-0d86-4eb6-bade-959d195ae695.wav",
+      "PackagePath": "staticwebassets\\voices\\45c4b2f1-0d86-4eb6-bade-959d195ae695.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\4854a7ef-2de3-4d56-9719-9cd675acf591.wav",
+      "PackagePath": "staticwebassets\\voices\\4854a7ef-2de3-4d56-9719-9cd675acf591.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\4889a338-0a4d-4722-9642-554380420219.wav",
+      "PackagePath": "staticwebassets\\voices\\4889a338-0a4d-4722-9642-554380420219.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\49ab1fe3-a276-4afa-af0f-7b5c7c441956.wav",
+      "PackagePath": "staticwebassets\\voices\\49ab1fe3-a276-4afa-af0f-7b5c7c441956.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\49fa5728-206a-42b8-963f-381e08084531.wav",
+      "PackagePath": "staticwebassets\\voices\\49fa5728-206a-42b8-963f-381e08084531.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\4ebd86b0-0b2a-4d94-b87c-5fb18ad5edfa.wav",
+      "PackagePath": "staticwebassets\\voices\\4ebd86b0-0b2a-4d94-b87c-5fb18ad5edfa.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\4f4d8eb4-c17b-4a4f-9933-1c96c8f1aed8.wav",
+      "PackagePath": "staticwebassets\\voices\\4f4d8eb4-c17b-4a4f-9933-1c96c8f1aed8.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\52d24dac-e681-4f84-9c94-a0ae35f9818f.wav",
+      "PackagePath": "staticwebassets\\voices\\52d24dac-e681-4f84-9c94-a0ae35f9818f.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\53cc1a96-c200-4dcd-af77-ea75f9a34f57.wav",
+      "PackagePath": "staticwebassets\\voices\\53cc1a96-c200-4dcd-af77-ea75f9a34f57.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\5656badf-964b-4235-b900-e313b03d4219.wav",
+      "PackagePath": "staticwebassets\\voices\\5656badf-964b-4235-b900-e313b03d4219.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\5670eb0e-5574-489d-a346-683e49149937.wav",
+      "PackagePath": "staticwebassets\\voices\\5670eb0e-5574-489d-a346-683e49149937.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\582e85fa-49e3-413f-bc0c-34cd42d0a353.wav",
+      "PackagePath": "staticwebassets\\voices\\582e85fa-49e3-413f-bc0c-34cd42d0a353.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\58970d6c-f490-4d50-bb02-5263a38e03a2.wav",
+      "PackagePath": "staticwebassets\\voices\\58970d6c-f490-4d50-bb02-5263a38e03a2.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\5aaab527-9040-4c41-bfc4-ba44f36c241b.wav",
+      "PackagePath": "staticwebassets\\voices\\5aaab527-9040-4c41-bfc4-ba44f36c241b.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\5b5352e9-28b3-4765-b6b1-559a10ae9a82.wav",
+      "PackagePath": "staticwebassets\\voices\\5b5352e9-28b3-4765-b6b1-559a10ae9a82.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\5b5b8157-7b86-49c4-9cea-04ff5dff582b.wav",
+      "PackagePath": "staticwebassets\\voices\\5b5b8157-7b86-49c4-9cea-04ff5dff582b.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\5c862c2b-06ce-442b-bec2-da2bd9bbbfb2.wav",
+      "PackagePath": "staticwebassets\\voices\\5c862c2b-06ce-442b-bec2-da2bd9bbbfb2.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\5d7bb926-ad43-488c-ab5f-7d46f9a47eda.wav",
+      "PackagePath": "staticwebassets\\voices\\5d7bb926-ad43-488c-ab5f-7d46f9a47eda.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\6039b836-edb3-452b-8a05-af10e40d14be.wav",
+      "PackagePath": "staticwebassets\\voices\\6039b836-edb3-452b-8a05-af10e40d14be.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\64a02dca-cfdd-4bfc-aba3-18a5d3ddaa9e.wav",
+      "PackagePath": "staticwebassets\\voices\\64a02dca-cfdd-4bfc-aba3-18a5d3ddaa9e.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\65e6b5ec-ccd8-4604-a8e1-f1b207ca2ea8.wav",
+      "PackagePath": "staticwebassets\\voices\\65e6b5ec-ccd8-4604-a8e1-f1b207ca2ea8.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\678fe7a7-770b-428a-bf10-fb8a2706a667.wav",
+      "PackagePath": "staticwebassets\\voices\\678fe7a7-770b-428a-bf10-fb8a2706a667.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\6a89f0ef-2190-4aed-9574-163489e5a2f6.wav",
+      "PackagePath": "staticwebassets\\voices\\6a89f0ef-2190-4aed-9574-163489e5a2f6.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\6be1e214-5c1d-4285-8108-9dd859c83433.wav",
+      "PackagePath": "staticwebassets\\voices\\6be1e214-5c1d-4285-8108-9dd859c83433.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\6bedf386-0548-4d78-b97f-b9f19abea1c0.wav",
+      "PackagePath": "staticwebassets\\voices\\6bedf386-0548-4d78-b97f-b9f19abea1c0.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\6cc95c51-9f85-440f-8ff1-0e07d3f9f17f.wav",
+      "PackagePath": "staticwebassets\\voices\\6cc95c51-9f85-440f-8ff1-0e07d3f9f17f.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\6d0e8739-24bf-4e16-98ba-cfe2b9e0f582.wav",
+      "PackagePath": "staticwebassets\\voices\\6d0e8739-24bf-4e16-98ba-cfe2b9e0f582.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\6d2c880e-4443-4bbf-94a9-20e4a099616e.wav",
+      "PackagePath": "staticwebassets\\voices\\6d2c880e-4443-4bbf-94a9-20e4a099616e.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\6de0ebd2-6579-4021-a02f-6c9daf8617c6.wav",
+      "PackagePath": "staticwebassets\\voices\\6de0ebd2-6579-4021-a02f-6c9daf8617c6.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\7028f978-d208-45cf-8ccb-41251c2e2b69.wav",
+      "PackagePath": "staticwebassets\\voices\\7028f978-d208-45cf-8ccb-41251c2e2b69.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\71404964-fe38-4ba6-9812-b933d92b0d59.wav",
+      "PackagePath": "staticwebassets\\voices\\71404964-fe38-4ba6-9812-b933d92b0d59.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\7182c528-838c-4c97-8dcc-143cf0ca94c1.wav",
+      "PackagePath": "staticwebassets\\voices\\7182c528-838c-4c97-8dcc-143cf0ca94c1.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\756ba29c-dc67-4e71-925b-bb4a8cff5308.wav",
+      "PackagePath": "staticwebassets\\voices\\756ba29c-dc67-4e71-925b-bb4a8cff5308.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\75756fe5-6704-43da-909b-d8cfa80072f5.wav",
+      "PackagePath": "staticwebassets\\voices\\75756fe5-6704-43da-909b-d8cfa80072f5.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\75e999c6-a4d2-48fa-9ea7-6265d88e3a60.wav",
+      "PackagePath": "staticwebassets\\voices\\75e999c6-a4d2-48fa-9ea7-6265d88e3a60.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\765bfe83-3ae4-4238-aae0-808aba772b96.wav",
+      "PackagePath": "staticwebassets\\voices\\765bfe83-3ae4-4238-aae0-808aba772b96.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\76e393db-c32f-4a37-a252-4d949e6c733d.wav",
+      "PackagePath": "staticwebassets\\voices\\76e393db-c32f-4a37-a252-4d949e6c733d.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\773b013e-34d3-4d55-9386-027735abab50.wav",
+      "PackagePath": "staticwebassets\\voices\\773b013e-34d3-4d55-9386-027735abab50.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\79af04a7-419d-4b38-ad06-fcfbe50c25c6.wav",
+      "PackagePath": "staticwebassets\\voices\\79af04a7-419d-4b38-ad06-fcfbe50c25c6.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\79f4b4e3-b3b5-4b7f-bb05-a33c7fd63515.wav",
+      "PackagePath": "staticwebassets\\voices\\79f4b4e3-b3b5-4b7f-bb05-a33c7fd63515.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\7c6b13c4-82fd-40c7-be9c-16b26e920adc.wav",
+      "PackagePath": "staticwebassets\\voices\\7c6b13c4-82fd-40c7-be9c-16b26e920adc.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\80ad9cee-3724-4740-a98a-20e4d33292ec.wav",
+      "PackagePath": "staticwebassets\\voices\\80ad9cee-3724-4740-a98a-20e4d33292ec.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\80c19932-663a-4716-8e84-d2bd6bc3d5cb.wav",
+      "PackagePath": "staticwebassets\\voices\\80c19932-663a-4716-8e84-d2bd6bc3d5cb.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\81a44da4-fd66-4013-a78f-df7994cfb54c.wav",
+      "PackagePath": "staticwebassets\\voices\\81a44da4-fd66-4013-a78f-df7994cfb54c.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\820ab9fd-a6b0-48c9-860a-bbf1dffa2d9e.wav",
+      "PackagePath": "staticwebassets\\voices\\820ab9fd-a6b0-48c9-860a-bbf1dffa2d9e.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\821b4520-fe86-45a6-93c3-e62dd527e600.wav",
+      "PackagePath": "staticwebassets\\voices\\821b4520-fe86-45a6-93c3-e62dd527e600.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\83a9fc95-d262-4833-b3a7-cded360234d2.wav",
+      "PackagePath": "staticwebassets\\voices\\83a9fc95-d262-4833-b3a7-cded360234d2.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\851b05b3-52df-4f4c-882e-150377dbba2b.wav",
+      "PackagePath": "staticwebassets\\voices\\851b05b3-52df-4f4c-882e-150377dbba2b.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\861f873f-53bd-4ff7-b452-384cd905fed0.wav",
+      "PackagePath": "staticwebassets\\voices\\861f873f-53bd-4ff7-b452-384cd905fed0.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\86404249-a716-4234-9680-98723a28e64d.wav",
+      "PackagePath": "staticwebassets\\voices\\86404249-a716-4234-9680-98723a28e64d.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\865419af-a1cb-4d5b-8f93-2591620f20d9.wav",
+      "PackagePath": "staticwebassets\\voices\\865419af-a1cb-4d5b-8f93-2591620f20d9.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\86be25e2-d9ff-4dda-8844-1fbb49dbd046.wav",
+      "PackagePath": "staticwebassets\\voices\\86be25e2-d9ff-4dda-8844-1fbb49dbd046.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\86bfce13-a914-4660-917c-b9edc36a42da.wav",
+      "PackagePath": "staticwebassets\\voices\\86bfce13-a914-4660-917c-b9edc36a42da.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\86df8bea-b17a-4be6-8cef-7895848a7e37.wav",
+      "PackagePath": "staticwebassets\\voices\\86df8bea-b17a-4be6-8cef-7895848a7e37.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\871074dd-5231-4f6d-bd8e-b37ab5eefde4.wav",
+      "PackagePath": "staticwebassets\\voices\\871074dd-5231-4f6d-bd8e-b37ab5eefde4.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\87d1627f-28f4-46e2-80bd-3cf1527b59aa.wav",
+      "PackagePath": "staticwebassets\\voices\\87d1627f-28f4-46e2-80bd-3cf1527b59aa.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\890ac85c-792e-487b-9e35-6957e310d7e9.wav",
+      "PackagePath": "staticwebassets\\voices\\890ac85c-792e-487b-9e35-6957e310d7e9.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\8ba8e66f-c1fc-4538-b1df-24413a1122b5.wav",
+      "PackagePath": "staticwebassets\\voices\\8ba8e66f-c1fc-4538-b1df-24413a1122b5.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\8d388380-7435-4cf1-823a-59db29d34b81.wav",
+      "PackagePath": "staticwebassets\\voices\\8d388380-7435-4cf1-823a-59db29d34b81.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\91343921-c3d7-448d-ad01-800b67f9243b.wav",
+      "PackagePath": "staticwebassets\\voices\\91343921-c3d7-448d-ad01-800b67f9243b.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\9568c6a2-e634-4508-b075-8aad47f3d6d5.wav",
+      "PackagePath": "staticwebassets\\voices\\9568c6a2-e634-4508-b075-8aad47f3d6d5.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\96b00ca1-fa32-4a61-91f6-c07e98b97dc8.wav",
+      "PackagePath": "staticwebassets\\voices\\96b00ca1-fa32-4a61-91f6-c07e98b97dc8.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\974fece9-a24a-4e0d-890a-d24fe7d325fd.wav",
+      "PackagePath": "staticwebassets\\voices\\974fece9-a24a-4e0d-890a-d24fe7d325fd.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\9aba789b-92de-4588-b038-e04371aff075.wav",
+      "PackagePath": "staticwebassets\\voices\\9aba789b-92de-4588-b038-e04371aff075.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\9b2fc970-56fe-4dfd-99fc-61157f3a41f5.wav",
+      "PackagePath": "staticwebassets\\voices\\9b2fc970-56fe-4dfd-99fc-61157f3a41f5.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\9c136069-f5f5-492b-a710-c4f71867d6f0.wav",
+      "PackagePath": "staticwebassets\\voices\\9c136069-f5f5-492b-a710-c4f71867d6f0.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\9fc6ccde-5510-4e96-9aa3-ee65f6da3256.wav",
+      "PackagePath": "staticwebassets\\voices\\9fc6ccde-5510-4e96-9aa3-ee65f6da3256.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\9fcade73-b5b1-4d00-9d0b-b3b9ad081986.wav",
+      "PackagePath": "staticwebassets\\voices\\9fcade73-b5b1-4d00-9d0b-b3b9ad081986.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\a054645c-d17e-4293-9ce8-693503fd4bfd.wav",
+      "PackagePath": "staticwebassets\\voices\\a054645c-d17e-4293-9ce8-693503fd4bfd.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\a104ec30-fe6b-42c1-b215-effa94b15104.wav",
+      "PackagePath": "staticwebassets\\voices\\a104ec30-fe6b-42c1-b215-effa94b15104.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\a1185b00-fb1f-4ad0-94af-d7836c931c23.wav",
+      "PackagePath": "staticwebassets\\voices\\a1185b00-fb1f-4ad0-94af-d7836c931c23.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\a14718f2-ba34-43a5-a4b1-29ac88e6424c.wav",
+      "PackagePath": "staticwebassets\\voices\\a14718f2-ba34-43a5-a4b1-29ac88e6424c.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\a44dc40f-ef2d-4d9d-9afb-c90644032e4a.wav",
+      "PackagePath": "staticwebassets\\voices\\a44dc40f-ef2d-4d9d-9afb-c90644032e4a.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\a547fce1-24ed-4482-bb28-41d00bf1060d.wav",
+      "PackagePath": "staticwebassets\\voices\\a547fce1-24ed-4482-bb28-41d00bf1060d.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\a9475762-c323-40dc-86cc-85e22995884a.wav",
+      "PackagePath": "staticwebassets\\voices\\a9475762-c323-40dc-86cc-85e22995884a.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\aab8ed98-33a7-44a6-8358-d7f479b40f3d.wav",
+      "PackagePath": "staticwebassets\\voices\\aab8ed98-33a7-44a6-8358-d7f479b40f3d.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\aafb1e02-6ba7-4706-9694-d748eab24d98.wav",
+      "PackagePath": "staticwebassets\\voices\\aafb1e02-6ba7-4706-9694-d748eab24d98.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\ad272d3b-bd3d-4e28-87c3-804c5853a20b.wav",
+      "PackagePath": "staticwebassets\\voices\\ad272d3b-bd3d-4e28-87c3-804c5853a20b.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\affd5d37-759d-4121-b4ea-ea8da6df9c1a.wav",
+      "PackagePath": "staticwebassets\\voices\\affd5d37-759d-4121-b4ea-ea8da6df9c1a.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\b0ef67fd-62f5-4be8-96b7-e49526dd96a0.wav",
+      "PackagePath": "staticwebassets\\voices\\b0ef67fd-62f5-4be8-96b7-e49526dd96a0.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\b2637b0d-2447-4c1d-9061-a39ec70a66e3.wav",
+      "PackagePath": "staticwebassets\\voices\\b2637b0d-2447-4c1d-9061-a39ec70a66e3.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\b31eb29c-d275-489d-9f74-ab74f6fd2f7f.wav",
+      "PackagePath": "staticwebassets\\voices\\b31eb29c-d275-489d-9f74-ab74f6fd2f7f.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\b46f4537-1391-4fc0-9b47-7c22f3c12609.wav",
+      "PackagePath": "staticwebassets\\voices\\b46f4537-1391-4fc0-9b47-7c22f3c12609.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\b47da09f-2eca-446f-abbe-da7ca212c7b4.wav",
+      "PackagePath": "staticwebassets\\voices\\b47da09f-2eca-446f-abbe-da7ca212c7b4.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\b5010409-658d-4329-9f13-34fc4e23a8f3.wav",
+      "PackagePath": "staticwebassets\\voices\\b5010409-658d-4329-9f13-34fc4e23a8f3.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\b6318bd8-7d10-46c2-a70d-046d04110e71.wav",
+      "PackagePath": "staticwebassets\\voices\\b6318bd8-7d10-46c2-a70d-046d04110e71.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\b70b3ef9-28aa-4466-99fb-2114bb17dd0d.wav",
+      "PackagePath": "staticwebassets\\voices\\b70b3ef9-28aa-4466-99fb-2114bb17dd0d.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\b93cba20-a7c2-466b-bb4b-b611062a26f8.wav",
+      "PackagePath": "staticwebassets\\voices\\b93cba20-a7c2-466b-bb4b-b611062a26f8.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\bb0db2ca-0bd3-4c15-931a-34aa95e10722.wav",
+      "PackagePath": "staticwebassets\\voices\\bb0db2ca-0bd3-4c15-931a-34aa95e10722.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\bbd4b63b-a5bf-461e-b55c-4973cc383fae.wav",
+      "PackagePath": "staticwebassets\\voices\\bbd4b63b-a5bf-461e-b55c-4973cc383fae.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\bdd815d8-166c-4946-a64f-e53e9de27a8d.wav",
+      "PackagePath": "staticwebassets\\voices\\bdd815d8-166c-4946-a64f-e53e9de27a8d.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\c0226d5d-3cfa-4f94-977f-a0941ff6b0ea.wav",
+      "PackagePath": "staticwebassets\\voices\\c0226d5d-3cfa-4f94-977f-a0941ff6b0ea.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\c0c4973f-b30a-4821-9ce8-96ce7ac59244.wav",
+      "PackagePath": "staticwebassets\\voices\\c0c4973f-b30a-4821-9ce8-96ce7ac59244.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\c19c1cb9-c3f1-4edb-84c7-34c1ce11768b.wav",
+      "PackagePath": "staticwebassets\\voices\\c19c1cb9-c3f1-4edb-84c7-34c1ce11768b.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\c1c72a6a-6818-4530-8b2e-5d2e97d3451f.wav",
+      "PackagePath": "staticwebassets\\voices\\c1c72a6a-6818-4530-8b2e-5d2e97d3451f.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\c2e01a0c-684a-4197-a68d-ac0e05cfd51d.wav",
+      "PackagePath": "staticwebassets\\voices\\c2e01a0c-684a-4197-a68d-ac0e05cfd51d.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\c2fc9d42-bdd5-4ee5-8b4b-cb386585bc94.wav",
+      "PackagePath": "staticwebassets\\voices\\c2fc9d42-bdd5-4ee5-8b4b-cb386585bc94.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\c83dc734-680b-4d1a-a57a-6cb3d22ce29c.wav",
+      "PackagePath": "staticwebassets\\voices\\c83dc734-680b-4d1a-a57a-6cb3d22ce29c.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\cb28fae2-1be2-4e13-bd06-48505710cce7.wav",
+      "PackagePath": "staticwebassets\\voices\\cb28fae2-1be2-4e13-bd06-48505710cce7.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\cb3eaf61-e989-4e5a-b558-3aa8cb11903b.wav",
+      "PackagePath": "staticwebassets\\voices\\cb3eaf61-e989-4e5a-b558-3aa8cb11903b.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\cb8ca75f-a759-4c87-8795-6f62041666a4.wav",
+      "PackagePath": "staticwebassets\\voices\\cb8ca75f-a759-4c87-8795-6f62041666a4.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\cc485fa1-752d-4ee0-ae77-0e3175a596c4.wav",
+      "PackagePath": "staticwebassets\\voices\\cc485fa1-752d-4ee0-ae77-0e3175a596c4.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\cc490b1e-cc85-4c90-a18c-29f364aab2d1.wav",
+      "PackagePath": "staticwebassets\\voices\\cc490b1e-cc85-4c90-a18c-29f364aab2d1.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\cdf1de80-b4b0-4a58-a302-2ae3fd31d90f.wav",
+      "PackagePath": "staticwebassets\\voices\\cdf1de80-b4b0-4a58-a302-2ae3fd31d90f.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\cfd09c2c-be28-4f14-bc53-1be345595fab.wav",
+      "PackagePath": "staticwebassets\\voices\\cfd09c2c-be28-4f14-bc53-1be345595fab.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\d00af1cd-cd16-4cba-87ba-62677abc80fd.wav",
+      "PackagePath": "staticwebassets\\voices\\d00af1cd-cd16-4cba-87ba-62677abc80fd.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\d1e627dc-c772-4a35-b7c0-951967ccc286.wav",
+      "PackagePath": "staticwebassets\\voices\\d1e627dc-c772-4a35-b7c0-951967ccc286.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\d225c1a0-b7b9-4bfc-a411-25fc613e5ff1.wav",
+      "PackagePath": "staticwebassets\\voices\\d225c1a0-b7b9-4bfc-a411-25fc613e5ff1.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\d28c4095-f8bf-4a52-9dd8-ff589c5d41b2.wav",
+      "PackagePath": "staticwebassets\\voices\\d28c4095-f8bf-4a52-9dd8-ff589c5d41b2.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\d32c44d3-7aff-4b81-9b41-18c9e12b8287.wav",
+      "PackagePath": "staticwebassets\\voices\\d32c44d3-7aff-4b81-9b41-18c9e12b8287.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\d5f0eacf-9e9f-4695-b782-3a2eaefc0382.wav",
+      "PackagePath": "staticwebassets\\voices\\d5f0eacf-9e9f-4695-b782-3a2eaefc0382.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\d77bf812-f5ee-458f-8a60-367748d36f21.wav",
+      "PackagePath": "staticwebassets\\voices\\d77bf812-f5ee-458f-8a60-367748d36f21.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\d9004b38-f75c-4de2-8074-a224562f7475.wav",
+      "PackagePath": "staticwebassets\\voices\\d9004b38-f75c-4de2-8074-a224562f7475.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\d924530c-3952-4098-a010-6ff3598cc354.wav",
+      "PackagePath": "staticwebassets\\voices\\d924530c-3952-4098-a010-6ff3598cc354.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\d93b8f7f-61fb-4053-acc4-8f8a2f7102c8.wav",
+      "PackagePath": "staticwebassets\\voices\\d93b8f7f-61fb-4053-acc4-8f8a2f7102c8.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\dbab4918-6158-4743-b28d-96d820ee5920.wav",
+      "PackagePath": "staticwebassets\\voices\\dbab4918-6158-4743-b28d-96d820ee5920.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\ddcbfcb5-62ef-44dd-82b0-6e9c900eb3b2.wav",
+      "PackagePath": "staticwebassets\\voices\\ddcbfcb5-62ef-44dd-82b0-6e9c900eb3b2.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\df242272-2a17-4a77-8598-cd8a2aebe328.wav",
+      "PackagePath": "staticwebassets\\voices\\df242272-2a17-4a77-8598-cd8a2aebe328.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\e12ab93d-54e5-45c4-a80c-5d5ce10fd078.wav",
+      "PackagePath": "staticwebassets\\voices\\e12ab93d-54e5-45c4-a80c-5d5ce10fd078.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\e1f142a6-af6d-49eb-a0c7-5389f9e3dd22.wav",
+      "PackagePath": "staticwebassets\\voices\\e1f142a6-af6d-49eb-a0c7-5389f9e3dd22.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\e213e0e3-ad61-4244-8072-da8e1efc6910.wav",
+      "PackagePath": "staticwebassets\\voices\\e213e0e3-ad61-4244-8072-da8e1efc6910.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\e273dc00-1528-4547-bf31-4286ef3c0f6f.wav",
+      "PackagePath": "staticwebassets\\voices\\e273dc00-1528-4547-bf31-4286ef3c0f6f.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\e35a4e1f-5f07-443d-925f-fb7c262e31b2.wav",
+      "PackagePath": "staticwebassets\\voices\\e35a4e1f-5f07-443d-925f-fb7c262e31b2.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\e70d1813-7a7f-47c2-96fa-cc4d397413e0.wav",
+      "PackagePath": "staticwebassets\\voices\\e70d1813-7a7f-47c2-96fa-cc4d397413e0.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\e855cfab-9947-4403-b991-9a060251d9b6.wav",
+      "PackagePath": "staticwebassets\\voices\\e855cfab-9947-4403-b991-9a060251d9b6.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\e89e4e18-8095-4e1c-af53-859568db7e2c.wav",
+      "PackagePath": "staticwebassets\\voices\\e89e4e18-8095-4e1c-af53-859568db7e2c.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\e98b6cf2-c2f1-4620-8df5-bf563998820b.wav",
+      "PackagePath": "staticwebassets\\voices\\e98b6cf2-c2f1-4620-8df5-bf563998820b.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\e9a081ca-423b-4c7b-9a0e-01ce7b059971.wav",
+      "PackagePath": "staticwebassets\\voices\\e9a081ca-423b-4c7b-9a0e-01ce7b059971.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\e9a42871-cc41-4530-a595-eab3c9586560.wav",
+      "PackagePath": "staticwebassets\\voices\\e9a42871-cc41-4530-a595-eab3c9586560.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\ec8d1df7-7a91-4104-898f-d1d2a5e12da9.wav",
+      "PackagePath": "staticwebassets\\voices\\ec8d1df7-7a91-4104-898f-d1d2a5e12da9.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\f1185ffd-25c8-4d2e-8e00-991db86a6f69.wav",
+      "PackagePath": "staticwebassets\\voices\\f1185ffd-25c8-4d2e-8e00-991db86a6f69.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\f2e5b2d8-9e65-418f-b618-1cae7294b50c.wav",
+      "PackagePath": "staticwebassets\\voices\\f2e5b2d8-9e65-418f-b618-1cae7294b50c.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\f5bcd407-3356-4bda-af48-b703ddd50eca.wav",
+      "PackagePath": "staticwebassets\\voices\\f5bcd407-3356-4bda-af48-b703ddd50eca.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\f7eed693-9ba4-4c9a-b2a9-cca39359700c.wav",
+      "PackagePath": "staticwebassets\\voices\\f7eed693-9ba4-4c9a-b2a9-cca39359700c.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\f9149bfc-1e5e-4aa3-b8db-dcf60bb20f8b.wav",
+      "PackagePath": "staticwebassets\\voices\\f9149bfc-1e5e-4aa3-b8db-dcf60bb20f8b.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\fb6bf848-e65b-477a-8f4c-dc15f9e69c0e.wav",
+      "PackagePath": "staticwebassets\\voices\\fb6bf848-e65b-477a-8f4c-dc15f9e69c0e.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\fb72db5f-226e-4291-9387-f8e3e554df23.wav",
+      "PackagePath": "staticwebassets\\voices\\fb72db5f-226e-4291-9387-f8e3e554df23.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\fe2de09c-7ae9-4502-be47-98498d5c93c7.wav",
+      "PackagePath": "staticwebassets\\voices\\fe2de09c-7ae9-4502-be47-98498d5c93c7.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\ff779976-2c5b-4669-885e-65319bc38ad2.wav",
+      "PackagePath": "staticwebassets\\voices\\ff779976-2c5b-4669-885e-65319bc38ad2.wav"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Graph-Theory-main\\Graph-Theory-main\\GraphApi\\wwwroot\\voices\\ffe0cb33-5edf-4904-84f2-3587c9131fce.wav",
+      "PackagePath": "staticwebassets\\voices\\ffe0cb33-5edf-4904-84f2-3587c9131fce.wav"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.GraphApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.GraphApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.GraphApi.props",
+      "PackagePath": "build\\GraphApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.GraphApi.props",
+      "PackagePath": "buildMultiTargeting\\GraphApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.GraphApi.props",
+      "PackagePath": "buildTransitive\\GraphApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

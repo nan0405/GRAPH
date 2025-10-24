@@ -1,0 +1,180 @@
+/* ===== Reset & Base ===== */
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    background-color: #f4f4f4;
+    color: #0e0e0e;
+}
+
+h3 {
+    text-align: center;
+    font-size: 28px;
+    margin: 30px 0;
+}
+
+/* ===== Navbar ===== */
+
+#menu-bar {
+    background-color: #0e0e0e;
+    padding: 10px 40px;
+}
+
+#menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Logo {
+    font-size: 22px;
+    font-weight: bold;
+    color: #f4f4f4;
+    text-decoration: none;
+}
+
+#navbar-list {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar-list a {
+    color: #f4f4f4;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+#navbar-list a:hover {
+    color: #ffd369;
+}
+
+/* ===== Search bar ===== */
+#searchbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin: 20px 0;
+}
+
+#search {
+    width: 250px;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+#show-filters {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    background-color: #0e0e0e;
+    color: #f4f4f4;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+/* ===== Logo ===== */
+.center {
+    text-align: center;
+}
+
+#university {
+    margin: 20px 0;
+}
+
+/* ===== Visualization Section ===== */
+#visualization {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+ul.list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 20px;
+    padding: 0;
+    margin: 20px 0;
+    list-style: none;
+}
+
+.li-wrapper {
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    text-align: center;
+}
+
+.li-wrapper:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.list a {
+    display: block;
+    text-decoration: none;
+}
+
+.list h3 {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 25px;
+    color: #0e0e0e;
+    text-decoration: none;
+}
+
+
+.li-wrapper img {
+    max-width: 100%;
+    border-radius: 8px;
+
+}
+
+.a-star{
+    position: relative;
+    height: 175px;
+    width: 230px;
+}
+
+.euler{
+    position: relative;
+        height: 175px;
+        width: 210px;
+}
+        /* ===== Footer ===== */
+        footer {
+            margin-top: 40px;
+            padding: 25px 40px;
+            background: #0e0e0e;
+            color: #f4f4f4;
+            text-align: center;
+        }
+    
+        footer p {
+            margin: 0;
+            font-size: 14px;
+        }
+    
+        .footer-links {
+            margin-top: 8px;
+        }
+    
+        .footer-links a {
+            color: #f4f4f4;
+            margin: 0 12px;
+            text-decoration: none;
+            font-size: 14px;
+            transition: 0.3s;
+        }
+    
+        .footer-links a:hover {
+            color: #ffd369;
+        }
