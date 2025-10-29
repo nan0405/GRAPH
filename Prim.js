@@ -5,32 +5,39 @@ function showCreate() {
 // --- Khởi tạo dữ liệu ---
 // Prim.js (FULL) - includes add/remove node & edge + Prim algorithm + animation
 
+//bien kiem soat thoi gian thong bao
+let notificationTimer = null;
+/**
+ * @param {string} message
+ * @param {'success' | 'error'} type
+ */
+
 // ----------------- initial data -----------------
 let nodes = [
-  { id: "a" },
-  { id: "b" },
-  { id: "c" },
-  { id: "d" },
-  { id: "e" },
-  { id: "f" },
-  { id: "g" },
-  { id: "h" },
+  {id: "a"},
+  {id: "b"},
+  {id: "c"},
+  {id: "d"},
+  {id: "e"},
+  {id: "f"},
+  {id: "g"},
+  {id: "h"},
 ];
 
 let links = [
-  { source: "a", target: "b", weight: 42, id: "a-b" },
-  { source: "a", target: "c", weight: 4, id: "a-c" },
-  { source: "a", target: "d", weight: 10, id: "a-d" },
-  { source: "b", target: "e", weight: 14, id: "b-e" },
-  { source: "b", target: "f", weight: 3, id: "b-f" },
-  { source: "c", target: "d", weight: 3, id: "c-d" },
-  { source: "c", target: "g", weight: 15, id: "c-g" },
-  { source: "d", target: "e", weight: 1, id: "d-e" },
-  { source: "d", target: "g", weight: 15, id: "d-g" },
-  { source: "d", target: "h", weight: 20, id: "d-h" },
-  { source: "e", target: "f", weight: 11, id: "e-f" },
-  { source: "g", target: "h", weight: 7, id: "g-h" },
-  { source: "f", target: "h", weight: 9, id: "f-h" },
+  {source: "a", target: "b", weight: 42, id: "a-b"},
+  {source: "a", target: "c", weight: 4, id: "a-c"},
+  {source: "a", target: "d", weight: 10, id: "a-d"},
+  {source: "b", target: "e", weight: 14, id: "b-e"},
+  {source: "b", target: "f", weight: 3, id: "b-f"},
+  {source: "c", target: "d", weight: 3, id: "c-d"},
+  {source: "c", target: "g", weight: 15, id: "c-g"},
+  {source: "d", target: "e", weight: 1, id: "d-e"},
+  {source: "d", target: "g", weight: 15, id: "d-g"},
+  {source: "d", target: "h", weight: 20, id: "d-h"},
+  {source: "e", target: "f", weight: 11, id: "e-f"},
+  {source: "g", target: "h", weight: 7, id: "g-h"},
+  {source: "f", target: "h", weight: 9, id: "f-h"},
 ];
 
 // ----------------- svg & simulation -----------------
@@ -70,12 +77,12 @@ function getEndpoints(link) {
   // returns { s: 'a', t: 'b' } independent of whether link.source is object or string
   const s = link.source && link.source.id ? link.source.id : link.source;
   const t = link.target && link.target.id ? link.target.id : link.target;
-  return { s, t };
+  return {s, t};
 }
 
 function ensureLinkIds() {
   links.forEach((l) => {
-    const { s, t } = getEndpoints(l);
+    const {s, t} = getEndpoints(l);
     if (!l.id) l.id = `${s}-${t}`;
   });
 }
@@ -197,12 +204,14 @@ function normId(raw) {
 function addNode() {
   let idRaw = document.getElementById("nodeName").value;
   const id = normId(idRaw);
+
   if (!id) {
-    alert("Nhập tên node");
+    showNotification("Vui lòng nhập tên node", "error");
     return;
   }
+
   if (nodes.find((n) => n.id === id)) {
-    alert("Node đã tồn tại");
+    showNotification(`Node '${id}' đã tồn tại`, "error");
     return;
   }
 
@@ -215,18 +224,20 @@ function addNode() {
   restart();
 
   document.getElementById("nodeName").value = ""; // clear input
+
+  showNotification(`Đã thêm node '${id}'`, "success");
 }
 
 // Remove node (and incident edges)
 function removeNode() {
   const id = normId(document.getElementById("nodeName").value);
   if (!id) {
-    alert("Nhập tên node để xóa");
+    showNotification("Nhập tên node để xóa", "error");
     return;
   }
   const idx = nodes.findIndex((n) => n.id === id);
   if (idx === -1) {
-    alert("Node không tồn tại");
+    showNotification("Node không tồn tại", "error");
     return;
   }
 
@@ -234,11 +245,12 @@ function removeNode() {
   nodes.splice(idx, 1);
   // remove incident links (handle source/target as object or string)
   links = links.filter((l) => {
-    const { s, t } = getEndpoints(l);
+    const {s, t} = getEndpoints(l);
     return s !== id && t !== id;
   });
   restart();
   document.getElementById("nodeName").value = "";
+  showNotification(`Đã xóa node '${id}'`, "success");
 }
 
 // Add edge (source target weight) with validations described
@@ -252,44 +264,45 @@ function addEdge() {
   const wTrim = wRaw ? wRaw.trim() : "";
 
   if (!src || !tgt) {
-    alert("Nhập source và target");
+    showNotification("Nhập source và target", "error");
     return;
   }
   if (src === tgt) {
-    alert("Không thể nối chính nó");
+    showNotification("Không thể nối chính nó", "error");
     return;
   }
   if (!nodes.find((n) => n.id === src) || !nodes.find((n) => n.id === tgt)) {
-    alert("Source/Target phải tồn tại");
+    showNotification("Source/Target phải tồn tại", "error");
     return;
   }
 
   // find existing edge (either orientation)
   const existing = links.find((l) => {
-    const { s, t } = getEndpoints(l);
+    const {s, t} = getEndpoints(l);
     return (s === src && t === tgt) || (s === tgt && t === src);
   });
 
   // if existing
   if (existing) {
-    // if user has typed a value, ensure it's numeric (digits only)
     if (wTrim !== "") {
       if (!/^[0-9]+$/.test(wTrim)) {
-        alert("Nhập đúng giá trị là số (số nguyên dương)");
+        showNotification("Nhập đúng giá trị là số (số nguyên dương)", "error");
         return;
       }
       const newW = Number(wTrim);
       const ok = confirm(
         `Cạnh ${existing.id} đã tồn tại. Bạn muốn thay đổi trọng số từ ${existing.weight} → ${newW}?`
       );
+
       if (ok) {
         existing.weight = newW;
         restart();
+        showNotification(`Đã cập nhật trọng số cạnh ${existing.id}`, "success");
       } else {
-        alert("Cạnh giữ nguyên trọng số.");
+        showNotification("Đã hủy thay đổi trọng số", "error");
       }
     } else {
-      alert("Cạnh đã tồn tại (nếu muốn thay đổi trọng số, hãy nhập Value rồi Add).");
+      showNotification("Cạnh đã tồn tại (nhập Value để thay đổi)", "error");
     }
     return;
   }
@@ -298,22 +311,23 @@ function addEdge() {
   let weight = 1;
   if (wTrim !== "") {
     if (!/^[0-9]+$/.test(wTrim)) {
-      alert("Nhập đúng giá trị là số (số nguyên dương)");
+      showNotification("Nhập đúng giá trị là số (số nguyên dương)", "error");
       return;
     }
     weight = Number(wTrim);
   }
 
   const newId = `${src}-${tgt}`;
-  links.push({ source: src, target: tgt, weight: weight, id: newId });
+  links.push({source: src, target: tgt, weight: weight, id: newId});
   restart();
 
+  showNotification(`Đã thêm cạnh ${newId}`, "success");
   document.getElementById("fromNode").value = "";
   document.getElementById("toNode").value = "";
   document.getElementById("edgeValue").value = "";
 }
 
-// Remove edge (by from-to or to-from)
+// Remove edge
 function removeEdge() {
   const srcRaw = document.getElementById("fromNode").value;
   const tgtRaw = document.getElementById("toNode").value;
@@ -321,24 +335,26 @@ function removeEdge() {
   const tgt = normId(tgtRaw);
 
   if (!src || !tgt) {
-    alert("Nhập source và target để xóa cạnh");
+    showNotification("Nhập source và target để xóa cạnh", "error");
     return;
   }
 
-  // find index by endpoints (either orientation)
+  // find index by endpoints 
   const idx = links.findIndex((l) => {
     const { s, t } = getEndpoints(l);
     return (s === src && t === tgt) || (s === tgt && t === src);
   });
 
   if (idx === -1) {
-    alert("Edge không tồn tại");
+    showNotification("Cạnh không tồn tại", "error");
     return;
   }
 
+  const removedId = links[idx].id;
   links.splice(idx, 1);
   restart();
 
+  showNotification(`Đã xóa cạnh ${removedId}`, "success");
   document.getElementById("fromNode").value = "";
   document.getElementById("toNode").value = "";
 }
@@ -346,29 +362,29 @@ function removeEdge() {
 // ----------------- graph controls -----------------
 function resetGraph() {
   nodes = [
-    { id: "a" },
-    { id: "b" },
-    { id: "c" },
-    { id: "d" },
-    { id: "e" },
-    { id: "f" },
-    { id: "g" },
-    { id: "h" },
+    {id: "a"},
+    {id: "b"},
+    {id: "c"},
+    {id: "d"},
+    {id: "e"},
+    {id: "f"},
+    {id: "g"},
+    {id: "h"},
   ];
   links = [
-    { source: "a", target: "b", weight: 42, id: "a-b" },
-    { source: "a", target: "c", weight: 4, id: "a-c" },
-    { source: "a", target: "d", weight: 10, id: "a-d" },
-    { source: "b", target: "e", weight: 14, id: "b-e" },
-    { source: "b", target: "f", weight: 3, id: "b-f" },
-    { source: "c", target: "d", weight: 3, id: "c-d" },
-    { source: "c", target: "g", weight: 15, id: "c-g" },
-    { source: "d", target: "e", weight: 1, id: "d-e" },
-    { source: "d", target: "g", weight: 15, id: "d-g" },
-    { source: "d", target: "h", weight: 20, id: "d-h" },
-    { source: "e", target: "f", weight: 11, id: "e-f" },
-    { source: "g", target: "h", weight: 7, id: "g-h" },
-    { source: "f", target: "h", weight: 9, id: "f-h" },
+    {source: "a", target: "b", weight: 42, id: "a-b"},
+    {source: "a", target: "c", weight: 4, id: "a-c"},
+    {source: "a", target: "d", weight: 10, id: "a-d"},
+    {source: "b", target: "e", weight: 14, id: "b-e"},
+    {source: "b", target: "f", weight: 3, id: "b-f"},
+    {source: "c", target: "d", weight: 3, id: "c-d"},
+    {source: "c", target: "g", weight: 15, id: "c-g"},
+    {source: "d", target: "e", weight: 1, id: "d-e"},
+    {source: "d", target: "g", weight: 15, id: "d-g"},
+    {source: "d", target: "h", weight: 20, id: "d-h"},
+    {source: "e", target: "f", weight: 11, id: "e-f"},
+    {source: "g", target: "h", weight: 7, id: "g-h"},
+    {source: "f", target: "h", weight: 9, id: "f-h"},
   ];
   stopPrim();
   restart();
@@ -396,7 +412,7 @@ function randomGraph() {
     const idx = Math.floor(Math.random() * available.length);
     const b = available.splice(idx, 1)[0];
     const w = Math.floor(Math.random() * 20) + 1;
-    links.push({ source: a, target: b, weight: w, id: `${a}-${b}` });
+    links.push({source: a, target: b, weight: w, id: `${a}-${b}`});
     connected.push(b);
   }
 
@@ -409,7 +425,7 @@ function randomGraph() {
     const id = `${a}-${b}`;
     if (links.find((l) => l.id === id || l.id === `${b}-${a}`)) continue;
     const w = Math.floor(Math.random() * 20) + 1;
-    links.push({ source: a, target: b, weight: w, id: id });
+    links.push({source: a, target: b, weight: w, id: id});
   }
 
   restart();
@@ -426,9 +442,9 @@ function buildAdj() {
   const adj = {};
   nodes.forEach((n) => (adj[n.id] = []));
   links.forEach((l) => {
-    const { s, t } = getEndpoints(l);
-    adj[s].push({ to: t, weight: +l.weight, id: l.id });
-    adj[t].push({ to: s, weight: +l.weight, id: l.id });
+    const {s, t} = getEndpoints(l);
+    adj[s].push({to: t, weight: +l.weight, id: l.id});
+    adj[t].push({to: s, weight: +l.weight, id: l.id});
   });
   return adj;
 }
@@ -445,9 +461,9 @@ function runPrim() {
   const inMST = new Set([start]);
   let edgesHeap = [];
   adj[start].forEach((e) =>
-    edgesHeap.push({ weight: e.weight, u: start, v: e.to, id: e.id })
+    edgesHeap.push({weight: e.weight, u: start, v: e.to, id: e.id})
   );
-  primSteps.push({ type: "nodeAdd", node: start });
+  primSteps.push({type: "nodeAdd", node: start});
 
   function pushEdge(e) {
     primSteps.push({
@@ -473,11 +489,11 @@ function runPrim() {
       weight: e.weight,
       newNode: newNode,
     });
-    primSteps.push({ type: "nodeAdd", node: newNode });
+    primSteps.push({type: "nodeAdd", node: newNode});
     inMST.add(newNode);
     adj[newNode].forEach((x) => {
       if (!inMST.has(x.to)) {
-        edgesHeap.push({ weight: x.weight, u: newNode, v: x.to, id: x.id });
+        edgesHeap.push({weight: x.weight, u: newNode, v: x.to, id: x.id});
         primSteps.push({
           type: "considerEdge",
           edgeId: x.id,
@@ -582,9 +598,12 @@ function stepPrim() {
         const nodeId = d3.select(this).attr("id").replace("node-", "");
         const connectedSelected = links.some((l) => {
           if (!l.id) return false;
-          const { s, t } = getEndpoints(l);
+          const {s, t} = getEndpoints(l);
           if (s === nodeId || t === nodeId) {
-            const stroke = linkGroup.selectAll("line").filter((d) => d.id === l.id).attr("stroke");
+            const stroke = linkGroup
+              .selectAll("line")
+              .filter((d) => d.id === l.id)
+              .attr("stroke");
             return stroke === "#2e7d32";
           }
           return false;
@@ -595,9 +614,12 @@ function stepPrim() {
         const nodeId = d3.select(this).attr("id").replace("node-", "");
         const connectedSelected = links.some((l) => {
           if (!l.id) return false;
-          const { s, t } = getEndpoints(l);
+          const {s, t} = getEndpoints(l);
           if (s === nodeId || t === nodeId) {
-            const stroke = linkGroup.selectAll("line").filter((d) => d.id === l.id).attr("stroke");
+            const stroke = linkGroup
+              .selectAll("line")
+              .filter((d) => d.id === l.id)
+              .attr("stroke");
             return stroke === "#2e7d32";
           }
           return false;
@@ -645,15 +667,21 @@ function pause() {
 // navigation placeholders
 function prevStep() {
   pause();
-  alert("Prev step: feature not implemented (use pause/play).");
+  showNotification("Tính năng chưa được hỗ trợ", "error");
 }
+
 function nextStep() {
-  if (!running && primSteps && primSteps.length > 0 && primIndex < primSteps.length) {
+  if (
+    !running &&
+    primSteps &&
+    primSteps.length > 0 &&
+    primIndex < primSteps.length
+  ) {
     running = true;
     stepPrim();
     running = false;
   } else {
-    alert("Next step: press play to run or randomGraph to generate + run.");
+    showNotification("Bấm Play để chạy hoặc Random để tạo đồ thị mới", "error");
   }
 }
 
@@ -676,6 +704,21 @@ function dragended(event, d) {
   if (!event.active) simulation.alphaTarget(0);
   d.fx = null;
   d.fy = null;
+}
+
+function showNotification(message, type) {
+  const notification = document.getElementById("notification");
+  if (notificationTimer) {
+    clearTimeout(notificationTimer);
+  }
+  notification.innerText = message;
+  notification.className = "";
+  notification.classList.add(type);
+  notification.classList.add("show");
+  notificationTimer = setTimeout(() => {
+    notification.classList.remove("show");
+    notificationTimer = null;
+  }, 3000);
 }
 
 // ----------------- expose functions globally -----------------

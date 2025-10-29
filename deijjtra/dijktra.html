@@ -3,8 +3,8 @@
 
 <head>
     <meta charset="UTF-8" />
-<title>Dijkstra Algorithm Visualization</title>
-<audio id="audio" src="../deijjtra/dijkstra_explain.mp3"></audio>
+    <title>Dijkstra Algorithm Visualization</title>
+    <audio id="audio" src="../deijjtra/dijkstra_explain.mp3"></audio>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./style.css" />
@@ -35,13 +35,16 @@
         </div>
         <button onclick="resetGraph()">Reset</button>
         <button onclick="randomGraph()">Random</button>
+        <div class="logo">
+            <img src="https://cdn.logo.com/hotlink-ok/logo-social.png" alt="Logo" />
+        </div>
     </div>
 
     <!-- Main Animation -->
     <div id="main">
         <div id="canvas">
             <svg id="graph" viewBox="0 0 600 500" preserveAspectRatio="xMidYMid meet"></svg>
-   
+
         </div>
 
         <div id="footer">
@@ -60,10 +63,8 @@
         <h3>Algorithm Steps</h3>
         <div class="step">Step 1: Khởi tạo tập hợp đỉnh ban đầu.</div>
     </div>
-
+    <div id="notification"></div>
     <script src="dijkstra.js">
-
-
     </script>
 </body>
 
